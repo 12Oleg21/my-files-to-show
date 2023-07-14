@@ -1,0 +1,1 @@
+<h1 style="color: red"> Error! Whiteboard has not been found. Please check your URL and try again!</h1>
